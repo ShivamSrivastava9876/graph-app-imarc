@@ -1,3 +1,12 @@
+
+
+![localhost_3000_login](https://github.com/user-attachments/assets/bdb84784-b231-4227-ae7f-70e1c647f77a)
+![localhost_3000_homepage](https://github.com/user-attachments/assets/9afd8423-eb5b-4d5d-b20e-bd8ce394e5ba)
+![localhost_3000_graphDetails_1725006172155 (2)](https://github.com/user-attachments/assets/8badbd12-6005-42ff-9e1a-e4ea54c04c31)
+![localhost_3000_graphDetails_1725006172155](https://github.com/user-attachments/assets/6ad97fa1-15f9-4f95-ab00-c4a1721fcaba)
+![localhost_3000_graphDetails_1725006172155 (1)](https://github.com/user-attachments/assets/0cfcf559-2c93-4646-931c-3873ac5e1fcb)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
